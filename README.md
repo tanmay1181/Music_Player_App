@@ -13,10 +13,10 @@ A beautiful Jetpack Compose music player built with ExoPlayer and Room.
 ## 📸 Screenshots
 
 ### 🎧 Now Playing Screen
-![Now Playing](screenshots/now_playing_screen.png)
+![Now Playing](screenshots/now_playing_screen.jpg)
 
 ### 🏠 Home Screen
-![Home](screenshots/home_screen.png)
+![Home](screenshots/home_screen.jpg)
 
 ### 💖 Favorite Screen
-![Favorites](screenshots/favorite_screen.png)
+![Favorites](screenshots/favorite_screen.jpg)
